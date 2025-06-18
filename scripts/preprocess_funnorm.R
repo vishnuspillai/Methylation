@@ -16,9 +16,9 @@ suppressMessages({
 })
 
 # --- Set directories (relative paths) ---
-input_dir <- "../data"
-output_dir <- "../results"
-plot_dir <- "../figures"
+input_dir <- "C:/Users/Vishnu S Pillai/Documents/GitHub/Methylation/data"
+output_dir <- "C:/Users/Vishnu S Pillai/Documents/GitHub/Methylation/data/results"
+plot_dir <- "C:/Users/Vishnu S Pillai/Documents/GitHub/Methylation/data/figures"
 
 # --- Read Sample Sheet ---
 cat("Reading sample sheet...\n")
