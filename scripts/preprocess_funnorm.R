@@ -11,8 +11,8 @@
 # --- Load required packages ---
 suppressMessages({
   library(minfi)
-  library(IlluminaHumanMethylationEPICmanifest)
-  library(IlluminaHumanMethylationEPICanno.ilm10b4.hg38)
+  library(IlluminaHumanMethylationEPICv2manifest)
+  library(IlluminaHumanMethylationEPICanno.ilm10b4.hg19)
 })
 
 # --- Set directories (relative paths) ---
