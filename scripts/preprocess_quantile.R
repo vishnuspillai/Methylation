@@ -1,7 +1,7 @@
 #!/usr/bin/env Rscript
 
 # ===============================================================
-# Title: Quantile Normalization for EPIC Methylation Data
+# Title: Quantile Normalization for EPIC Methylation Dataa
 # Author: Vishnu S. Pillai
 # Description: This script reads IDATs and sample sheet,
 # performs quantile normalization using preprocessQuantile(),
